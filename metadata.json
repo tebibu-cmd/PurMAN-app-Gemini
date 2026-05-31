@@ -1,0 +1,6 @@
+{
+  "name": "PurMAN AI",
+  "description": "A premium modern AI-powered Sales and Purchase Management System with Dark UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
